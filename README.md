@@ -43,7 +43,7 @@
 				<ul type="disc">
 					<li>
 						
-							Ứng dụng này có chứa các liên kết đến các trang web khác (Cụ thể là phần Donate, Fanpage,...). Nếu bạn nhấp vào liên kết đó, bạn sẽ được chuyển hướng đến trang web tương ứng. Lưu ý rằng các trang web này không phải do EngSmart: "Hack Não" 1000 Từ Vựng Tiếng Anh FREE phát hành và kiểm soát hoàn toàn, hầu hết là do sự đóng góp từ nhiều phía, do đó chúng có thể bị dừng hoạt động hay bị lỗi truy cập bất cứ lúc nào tùy thuộc vào người chủ sở hữu đường dẫn đó. Nếu bạn có vấn đề với việc truy cập các đường dẫn, hãy liên hệ với EngSmart: "Hack Não" 1000 Từ Vựng Tiếng Anh FREE.
+							Ứng dụng này có chứa các liên kết đến các trang web khác (Cụ thể là Fanpage,...). Nếu bạn nhấp vào liên kết đó, bạn sẽ được chuyển hướng đến trang web tương ứng. Lưu ý rằng các trang web này không phải do EngSmart: "Hack Não" 1000 Từ Vựng Tiếng Anh FREE phát hành và kiểm soát hoàn toàn, hầu hết là do sự đóng góp từ nhiều phía, do đó chúng có thể bị dừng hoạt động hay bị lỗi truy cập bất cứ lúc nào tùy thuộc vào người chủ sở hữu đường dẫn đó. Nếu bạn có vấn đề với việc truy cập các đường dẫn, hãy liên hệ với EngSmart: "Hack Não" 1000 Từ Vựng Tiếng Anh FREE.
 						
 					</li>
 				</ul>
