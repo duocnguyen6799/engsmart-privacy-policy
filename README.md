@@ -1,5 +1,5 @@
 # Privacy Policy
-NPD Studios built the EngSmart, EngHacking, Hack Não 1000 Từ Qua Thơ Lục Bát, Sleeptify apps as a Free app. This SERVICE is provided by NPD Studios at no cost and is intended for use as is.
+GENIUSS SOFTWARE LTD. built the EngSmart, EngHacking, EngVoca, Sleeptify, Hack Nao THPT apps as a Free app. This SERVICE is provided by GENIUSS SOFTWARE at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -53,4 +53,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 – Fanpage: https://facebook.com/engsmart512
 
-– Email: phucduocnguyen@gmail.com
+– Email: phucduocnguyen@gmail.com or geniuss.software@gmail.com
