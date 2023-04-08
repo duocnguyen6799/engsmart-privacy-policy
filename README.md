@@ -1,5 +1,5 @@
 # Privacy Policy
-GENIUSS SOFTWARE LTD. built the EngSmart, EngHacking, EngVoca, Sleeptify, Hack Nao THPT apps as a Free app. This SERVICE is provided by GENIUSS SOFTWARE at no cost and is intended for use as is.
+<strong>GENIUS SOFTWARE LTD.</strong> built the <a href="https://play.google.com/store/apps/details?id=com.phucduoc.engsmart&amp;hl=vi">EngSmart</a>, <a href="https://play.google.com/store/apps/details?id=com.phucduoc.enghacking&amp;hl=vi">EngHacking</a>, <a href="https://play.google.com/store/apps/dev?id=5616192030843601519&amp;hl=vi">EngVoca</a>, <a href="https://play.google.com/store/apps/dev?id=5616192030843601519&amp;hl=vi">Sleeptify</a>, <a href="https://play.google.com/store/apps/details?id=com.luyenthithptquocgia.hacknaothpt&amp;hl=vi">Hack Nao THPT</a>, <a href="https://play.google.com/store/apps/details?id=lovetesterplus.boitinhyeu.cunghoangdao.love_tester_plus&amp;hl=vi">LoveTester+</a>, <a href="https://play.google.com/store/apps/details?id=baihat.karaoke.karabook&amp;hl=vi">Karabook</a>,... apps as a Free app. This SERVICE is provided by <strong>GENIUS SOFTWARE</strong> at no cost or having a reasonable price and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -51,6 +51,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
-– Fanpage: https://facebook.com/engsmart512
-
+– Fanpage: https://facebook.com/engsmart512<br>
+– Playstore: https://play.google.com/store/apps/dev?id=5616192030843601519&hl=vi<br>
 – Email: phucduocnguyen@gmail.com or geniuss.software@gmail.com
